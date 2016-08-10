@@ -113,7 +113,7 @@ If you want to access sub-generators, you have to globally install one of the fo
 - [generator-fountain-react](https://github.com/FountainJS/generator-fountain-react)
 - [generator-fountain-angular2](https://github.com/FountainJS/generator-fountain-angular2)
 - [generator-fountain-angular1](https://github.com/FountainJS/generator-fountain-angular1)
-
+- [generator-fountain-vue](https://github.com/FountainJS/generator-fountain-vue)
 
 ### [Start development](http://fountainjs.io/doc/usage/#use-npm-scripts)
 
